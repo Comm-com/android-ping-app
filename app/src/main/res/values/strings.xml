@@ -1,0 +1,31 @@
+<resources>
+
+    <string name="app_name">SkeletonLayout</string>
+    <string name="editor">Editor</string>
+    <string name="mask_color">Mask color</string>
+    <string name="mask_corner_radius">Mask corner radius (%d)</string>
+    <string name="shimmer_color">Shimmer color</string>
+    <string name="shimmer_duration">Shimmer duration (%d ms)</string>
+    <string-array name="shimmer_directions">
+        <item>Left-to-right</item>
+        <item>Right-to-left</item>
+    </string-array>
+    <string name="shimmer_angle">Shimmer angle (%d°)</string>
+    <string name="shimmer_show">Show shimmer</string>
+    <string name="toggle">Toggle</string>
+    <string name="save">Save</string>
+    <string name="phone_numbers_hint">Phone Numbers (comma separated)</string>
+    <string name="request_history_title">Request History (Last 10)</string>
+    <string name="no_requests_yet">No requests yet</string>
+    <string name="service_status">Service Status</string>
+    <string name="notification_channel_name">SMS Monitoring Service</string>
+    <string name="notification_channel_description">Keeps the SMS monitoring service running in the background</string>
+
+    <string name="user_0_name">Reynold Arnold</string>
+    <string name="user_0_statement">If it fails, we can rewrite it</string>
+    <string name="user_1_name">Brando Rambo</string>
+    <string name="user_1_statement">When you\'re pushed, build breaking\'s as easy as breathing</string>
+    <string name="user_2_name">Phyllis Willis</string>
+    <string name="user_2_statement">Wrong girl in the wrong program at the wrong line</string>
+
+</resources>
